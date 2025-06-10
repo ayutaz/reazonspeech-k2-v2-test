@@ -21,7 +21,7 @@ pooch==1.8.2
 pycparser==2.22
 pyyaml==6.0.2
 reazonspeech-k2-asr @ file:///C:/Users/yuta/Desktop/Private/reazonspeech-k2-v2/ReazonSpeech/pkg/k2-asr
-requests==2.32.3
+requests==2.32.4
 scikit-learn==1.6.0
 scipy==1.14.1
 sherpa-onnx==1.10.35
